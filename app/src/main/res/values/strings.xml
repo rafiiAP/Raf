@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jenis Kucing</string>
+    <string name="app_name2">Tentang</string>
+    <string name="s">S</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="penulis">Penulis :</string>
+    <string name="penerbit">Penerbit :</string>
+    <string name="halaman">Halaman :</string>
+    <string name="nama_rafii_ananda_putra">Nama : Rafii Ananda Putra</string>
+    <string name="e_mail_prafi726_gmail_com">E-Mail : prafi726@gmail.com</string>
+    <string name="rafcats">RafCats</string>
+    <string name="tentang">Tentang</string>
+</resources>
